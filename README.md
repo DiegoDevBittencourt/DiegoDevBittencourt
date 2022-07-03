@@ -62,15 +62,6 @@
  <a href="https://pt-br.reactjs.org/">
     <img width="36" height="36" src="https://miro.medium.com/max/525/1*mrOXGyIa3BlPK80peLmEbA.png" alt="react-redmension" title="ReactJS" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
-  <a href="https://realm.io/">
-    <img width="36" height="36" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" alt="react-redmension" title="Realm" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;
-  <a href="https://www.sqlite.org/index.html">
-    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="react-redmension" title="SQ-Lite" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;
-  <a href="https://firebase.google.com/">
-    <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="react-redmension" title="Firebase" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;
     <a href="https://mui.com/pt/">
     <img width="36" height="36" src="https://v4.material-ui.com/static/logo.png" alt="react-redmension" title="Material-UI" border="0"/>
   </a>&ensp;&ensp;
@@ -92,9 +83,6 @@
   <a href="https://www.embarcadero.com/br/free-tools/firemonkey-stencils" target="_blank">
     <img width="36" height="36" src="https://i2.wp.com/www.firemonkeyx.com/wp-content/uploads/2014/06/fmlogo.png?resize=512%2C512" alt="notion-redmension" title="FireMonkey" border="0" />
   </a>&ensp;&ensp;
-  <a href="https://firebirdsql.org/" target="_blank">
-    <img width="36" height="36" src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png" alt="notion-redmension" title="Firebird" border="0" />
-  </a>&ensp;&ensp;
 </p>
 
 **My Backend Stack**
@@ -115,6 +103,23 @@
   <a href="https://oauth.net/">
     <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="OAuth" border="0" style="margin-left: 16px"/>
   </a>
+</p>
+
+**Database Managers**
+  
+<p align="left">        
+  <a href="https://realm.io/">
+    <img width="36" height="36" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" alt="react-redmension" title="Realm" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://www.sqlite.org/index.html">
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="react-redmension" title="SQ-Lite" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+      <a href="https://firebase.google.com/">
+    <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="react-redmension" title="Firebase" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://firebirdsql.org/" target="_blank">
+    <img width="36" height="36" src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png" alt="notion-redmension" title="Firebird" border="0" />
+  </a>&ensp;&ensp;
 </p>
 
 **DevOps**
