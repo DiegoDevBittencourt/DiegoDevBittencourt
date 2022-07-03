@@ -79,6 +79,9 @@
     <a href="https://redux-saga.js.org/">
         <img width="36" height="36" src="https://devsdata.com/wp-content/uploads/2020/08/redux-saga-logo.png" alt="react-redmension" title="Redux Saga" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
+    <a href="https://sentry.io/">
+        <img width="36" height="36" src="https://cdn.iconscout.com/icon/free/png-256/sentry-3629640-3031108.png" alt="react-redmension" title="Sentry" border="0" style="margin-left: 16px"/>
+    </a>&ensp;&ensp;
     <a href="https://reactnavigation.org/" target="_blank">
         <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
     </a>&ensp;&ensp;
