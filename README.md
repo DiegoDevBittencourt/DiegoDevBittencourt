@@ -31,7 +31,7 @@
   </a>&ensp;&ensp;&ensp;
   <a href="https://desktop.github.com/" target="_blank">
     <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
-  </a>
+  </a>&ensp;&ensp;&ensp;
    <a href="https://www.adobe.com/br/products/photoshop.html">
     <img width="36" height="36" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="react-redmension" title="Photoshop" border="0" style="margin-left: 16px"/>
   </a>
