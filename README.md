@@ -147,6 +147,28 @@
 </a>
 </p>
 
+<table width="100%">
+<thead>
+    <tr>
+        <th>Interested in learning</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>
+            <a href="https://www.java.com/pt-BR/">
+                <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="scss-redmension" title="Java" border="0" />
+            </a>&ensp;&ensp;&ensp;
+            <a href="https://developer.android.com/studio">
+                <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="androidstudio-redmension" title="Android Studio" border="0" />
+            </a>&ensp;&ensp;&ensp;
+            <a href="https://kotlinlang.org/">
+                <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin-redmension" title="Kotlin" border="0" />
+            </a>
+        </td>
+    </tr>
+</tbody>
+</table>
 
 ---
 
