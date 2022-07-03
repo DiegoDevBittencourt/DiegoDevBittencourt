@@ -143,7 +143,7 @@
     <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="react-redmension" title="Netlify" border="0" style="margin-left: 16px"/>
 </a>&ensp;&ensp;
 <a href="https://aws.amazon.com/">
-    <img width="36" height="36" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png" alt="react-redmension" title="AWS" border="0" style="margin-left: 16px"/>
+    <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyDH1jZiDtxXRiR0a6K1FVVPbWLnIS2tfPfEPBlOmjXncPDHMQjZHfDTldcxx_-sMBo0&usqp=CAU" alt="react-redmension" title="AWS" border="0" style="margin-left: 16px"/>
 </a>&ensp;&ensp;
 <a href="https://github.com/">
     <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="react-redmension" title="GitHub" border="0" style="margin-left: 16px"/>
