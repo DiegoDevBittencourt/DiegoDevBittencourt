@@ -18,10 +18,10 @@
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git-redmension" title="Git" border="0" />
+    <img width="36" height="36" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git-redmension" title="Git" border="0" />
   </a>&ensp;&ensp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="visualcode-redmension" title="VS Code"
+    <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="visualcode-redmension" title="VS Code"
       border="0" />
   </a>&ensp;&ensp;
   <a href="https://insomnia.rest/" target="_blank">
