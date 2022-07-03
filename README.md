@@ -95,6 +95,9 @@
   <a href="https://expressjs.com/">
     <img width="36" height="36" src="https://images.tute.io/tute/topic/express-js.png" alt="react-redmension" title="Express" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
+      <a href="https://sequelize.org/">
+    <img width="36" height="36" src="https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.png" alt="react-redmension" title="Sequelize" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
   <a href="https://jwt.io/">
     <img width="36" height="36" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" alt="react-redmension" title="JWT" border="0" style="margin-left: 16px"/>
   </a>
