@@ -25,7 +25,7 @@
   </a>&ensp;&ensp;&ensp;
   <a href="https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a" target="_blank">
     <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" alt="notion-redmension" title="Postman" border="0" />
-  </a>
+  </a>&ensp;&ensp;&ensp;
   <a href="https://desktop.github.com/" target="_blank">
     <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
   </a>
@@ -48,7 +48,7 @@
   </a>&ensp;&ensp;&ensp;
   <a href="https://reactnative.dev/">
     <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;&ensp;
+  </a>&ensp;&ensp;
   <a href="https://redux.js.org/">
     <img width="36" height="36" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="scss-redmension" title="Redux" border="0" />
    </a>
