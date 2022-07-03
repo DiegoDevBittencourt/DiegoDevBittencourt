@@ -1,8 +1,8 @@
-<a href="#">
-    <img onmouseover="" width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0" />
-</a>
-
 ## Hello there, I'm Diego Bittencourt 👋
+
+<a href="#">
+    <img onmouseover="" src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
+</a>
 
 <p align="left">
   In love with technology, I'm an enthusiast of UX/UI Design and Front-End Development.
