@@ -9,7 +9,6 @@
   <br />
   Always studying for self-improvement and extra knowledge to build better codes!
 </p>
-<br />
 
 **Work Tools**
 
