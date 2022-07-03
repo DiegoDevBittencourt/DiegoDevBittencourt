@@ -50,7 +50,7 @@
     <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3" title="CSS3" border="0" />
   </a>&ensp;&ensp;
  <a href="https://reactnative.dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
   <a href="https://nodejs.org/en/">
     <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="react-redmension" title="NodeJS" border="0" style="margin-left: 16px"/>
