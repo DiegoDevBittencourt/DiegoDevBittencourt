@@ -63,11 +63,10 @@
   </a>&ensp;&ensp;
   <a href="https://firebase.google.com/">
     <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="react-redmension" title="Firebase" border="0" style="margin-left: 16px"/>
-    
-    <p>
+  </a>
 </p>
-    
-  </a>&ensp;&ensp;
+  
+<p align="left">      
   <a href="https://styled-components.com/">
     <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Styled Components" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
