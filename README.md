@@ -86,6 +86,12 @@
   <a href="https://reactnavigation.org/" target="_blank">
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
   </a>&ensp;&ensp;
+  <a href="https://www.embarcadero.com/br/products/delphi" target="_blank">
+    <img width="36" height="36" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" alt="notion-redmension" title="Delphi" border="0" />
+  </a>&ensp;&ensp;
+  <a href="https://www.embarcadero.com/br/free-tools/firemonkey-stencils" target="_blank">
+    <img width="36" height="36" src="https://i2.wp.com/www.firemonkeyx.com/wp-content/uploads/2014/06/fmlogo.png?resize=512%2C512" alt="notion-redmension" title="FireMonkey" border="0" />
+  </a>&ensp;&ensp;
 </p>
 
 **My Backend Stack**
