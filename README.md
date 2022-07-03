@@ -58,6 +58,9 @@
   <a href="https://realm.io/">
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" alt="react-redmension" title="Realm" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
+  <a href="https://www.sqlite.org/index.html">
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="react-redmension" title="SQ-Lite" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
   <a href="https://styled-components.com/">
     <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Styled Components" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
