@@ -113,7 +113,7 @@
     </a>
 </p>
 
-**Database Managers**
+**Databases**
 
 <p align="left">        
     <a href="https://realm.io/">
