@@ -23,19 +23,19 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code"
       border="0" />
-  </a>&ensp;&ensp
+  </a>&ensp;&ensp;
   <a href="https://insomnia.rest/" target="_blank">
     <img width="36" height="36" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" alt="Insomnia-redmension" title="Insomnia" border="0" />    
-  </a>&ensp;&ensp
+  </a>&ensp;&ensp;
   <a href="https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a" target="_blank">
     <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" alt="notion-redmension" title="Postman" border="0" />
-  </a>&ensp;&ensp
+  </a>&ensp;&ensp;
   <a href="https://github.com/infinitered/reactotron" target="_blank">
     <img width="36" height="36" src="https://github.com/infinitered/reactotron/raw/master/docs/images/readme/Reactotron-128.png" alt="notion-redmension" title="Reactotron" border="0" />
-  </a>&ensp;&ensp
+  </a>&ensp;&ensp;
   <a href="https://desktop.github.com/" target="_blank">
     <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
-  </a>&ensp;&ensp
+  </a>&ensp;&ensp;
    <a href="https://www.adobe.com/br/products/photoshop.html">
     <img width="36" height="36" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="react-redmension" title="Photoshop" border="0" style="margin-left: 16px"/>
   </a>
