@@ -18,10 +18,10 @@
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git-redmension" title="Git" border="0" />
   </a>&ensp;&ensp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code"
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="visualcode-redmension" title="VS Code"
       border="0" />
   </a>&ensp;&ensp;
   <a href="https://insomnia.rest/" target="_blank">
@@ -48,13 +48,13 @@
 
 <p align="left">  
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6" title="Javascript" border="0" />
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="ES6" title="JavaScript" border="0" />
   </a>&ensp;&ensp;
   <a href="https://www.typescriptlang.org/">
-    <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0" />
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript-redmension" title="TypeScript" border="0" />
   </a>&ensp;&ensp;
    <a href="https://www.w3schools.com/css/">
-    <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3" title="CSS3" border="0" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" title="CSS3" border="0" />
   </a>&ensp;&ensp;
  <a href="https://reactnative.dev/">
     <img width="36" height="36" src="https://icons-for-free.com/iconfiles/png/512/logo+react+react+js+icon-1320184811840217251.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
