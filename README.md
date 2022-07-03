@@ -18,7 +18,7 @@
 <p align="left">
     <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
         <img src="https://i.ibb.co/NFXK02X/windows-redemension.png" alt="windows-redemension" title="Windows 10" border="0" />
-    </a>&ensp;&ensp
+    </a>&ensp;&ensp;
     <a href="https://git-scm.com/" target="_blank">
         <img width="36" height="36" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git-redmension" title="Git" border="0" />
     </a>&ensp;&ensp;
