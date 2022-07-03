@@ -104,9 +104,27 @@
     <img width="36" height="36" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" alt="react-redmension" title="JWT" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
   <a href="https://oauth.net/">
-    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="Oauth" border="0" style="margin-left: 16px"/>
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="OAuth" border="0" style="margin-left: 16px"/>
   </a>
 </p>
+
+**DevOps**
+  
+<p align="left">        
+    <a href="https://www.heroku.com/">
+    <img width="36" height="36" src="https://seekicon.com/free-icon-download/heroku_4.svg" alt="react-redmension" title="Heroku" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://vercel.com/">
+    <img width="36" height="36" src="https://avatars.githubusercontent.com/u/14985020?s=280&v=4" alt="react-redmension" title="Vercel" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://www.netlify.com/">
+    <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="react-redmension" title="Netlify" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://github.com/">
+    <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="react-redmension" title="GitHub" border="0" style="margin-left: 16px"/>
+  </a>
+</p>
+
 
 ---
 
