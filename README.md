@@ -41,11 +41,11 @@
 
 <p align="left">  
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6" title="JS" border="0" />
-  </a>&ensp;&ensp;&ensp;
+    <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6" title="Javascript" border="0" />
+  </a>&ensp;&ensp;
   <a href="https://www.typescriptlang.org/">
     <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0" />
-  </a>&ensp;&ensp;&ensp;
+  </a>&ensp;&ensp;
    <a href="https://www.w3schools.com/css/">
     <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3" title="CSS3" border="0" />
   </a>&ensp;&ensp;&ensp;
