@@ -80,7 +80,7 @@
         <img width="36" height="36" src="https://devsdata.com/wp-content/uploads/2020/08/redux-saga-logo.png" alt="react-redmension" title="Redux Saga" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
     <a href="https://sentry.io/">
-        <img width="36" height="36" src="https://cdn.iconscout.com/icon/free/png-256/sentry-3629640-3031108.png" alt="react-redmension" title="Sentry" border="0" style="margin-left: 16px"/>
+        <img width="36" height="36" src="https://yt3.ggpht.com/ytc/AKedOLQOj9pl6I3TcjCN8Je6u_8A7YCGpsMfFrTFrWg7=s900-c-k-c0x00ffffff-no-rj" alt="react-redmension" title="Sentry" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
     <a href="https://reactnavigation.org/" target="_blank">
         <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
