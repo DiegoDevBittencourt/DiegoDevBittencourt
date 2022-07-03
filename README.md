@@ -50,7 +50,7 @@
     <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;&ensp;
   <a href="https://redux.js.org/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="scss-redmension" title="Redux" border="0" />
+    <img width="36" height="36" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="scss-redmension" title="Redux" border="0" />
    </a>
 </p>
 
