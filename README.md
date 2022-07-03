@@ -74,8 +74,8 @@
 </p>
   
 <p align="left">      
-  <a href="https://styled-components.com/">
-    <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Material-UI" border="0"/>
+  <a href="https://mui.com/pt/">
+    <img width="36" height="36" src="https://v4.material-ui.com/static/logo.png" alt="react-redmension" title="Material-UI" border="0"/>
   </a>&ensp;&ensp;
   <a href="https://styled-components.com/">
     <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Styled Components" border="0"/>
