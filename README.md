@@ -1,4 +1,6 @@
-<img href="#" src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
+<a href="#">
+    <img onmouseover="" width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0" />
+</a>
 
 ## Hello there, I'm Diego Bittencourt 👋
 
