@@ -24,10 +24,10 @@
     <img width="36" height="36" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" alt="Insomnia-redmension" title="Insomnia" border="0" />
   </a>&ensp;&ensp;&ensp;
   <a href="https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" alt="notion-redmension" title="Postman" border="0" />
+    <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" alt="notion-redmension" title="Postman" border="0" />
   </a>
   <a href="https://desktop.github.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
   </a>
 </p>
 
@@ -44,17 +44,13 @@
     <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6" title="JS" border="0" />
   </a>&ensp;&ensp;&ensp;
   <a href="https://www.typescriptlang.org/">
-          <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript"
-            border="0" />
-  </a>
+    <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0" />
+  </a>&ensp;&ensp;&ensp;
   <a href="https://reactnative.dev/">
-        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
+    <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;&ensp;
-  <a href="https://pt-br.reactjs.org/">
-        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" style="margin-left: 16px"/>
-  </a>&ensp;&ensp;&ensp;
-  <a href="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg">
-        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="Redux" border="0" />
+  <a href="https://redux.js.org/">
+    <img src="[https://i.ibb.co/FsGpytB/scss-redmension.png](https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg)" alt="scss-redmension" title="Redux" border="0" />
    </a>
 </p>
 
