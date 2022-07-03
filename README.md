@@ -1,3 +1,7 @@
+<a href="#">
+    <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
+</a>
+
 ## Hello there, I'm Diego Bittencourt 👋
 
 <p align="left">
