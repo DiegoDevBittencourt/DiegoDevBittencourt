@@ -70,11 +70,8 @@
   </a>&ensp;&ensp;
   <a href="https://firebase.google.com/">
     <img width="36" height="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="react-redmension" title="Firebase" border="0" style="margin-left: 16px"/>
-  </a>
-</p>
-  
-<p align="left">      
-  <a href="https://mui.com/pt/">
+  </a>&ensp;&ensp;
+    <a href="https://mui.com/pt/">
     <img width="36" height="36" src="https://v4.material-ui.com/static/logo.png" alt="react-redmension" title="Material-UI" border="0"/>
   </a>&ensp;&ensp;
   <a href="https://styled-components.com/">
@@ -89,6 +86,9 @@
   <a href="https://reactnavigation.org/" target="_blank">
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
   </a>&ensp;&ensp;
+</p>
+  
+<p align="left">        
     <a href="https://nodejs.org/en/">
     <img width="36" height="36" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/nodejs-logo-adesivo-sticker.png" alt="react-redmension" title="NodeJS" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
@@ -100,6 +100,9 @@
   </a>&ensp;&ensp;
   <a href="https://jwt.io/">
     <img width="36" height="36" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" alt="react-redmension" title="JWT" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://oauth.net/">
+    <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="Oauth" border="0" style="margin-left: 16px"/>
   </a>
 </p>
 
