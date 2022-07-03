@@ -80,7 +80,7 @@
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
   </a>&ensp;&ensp;
     <a href="https://nodejs.org/en/">
-    <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="react-redmension" title="NodeJS" border="0" style="margin-left: 16px"/>
+    <img width="36" height="36" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/nodejs-logo-adesivo-sticker.png" alt="react-redmension" title="NodeJS" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
   <a href="https://expressjs.com/">
     <img width="36" height="36" src="https://images.tute.io/tute/topic/express-js.png" alt="react-redmension" title="Express" border="0" style="margin-left: 16px"/>
