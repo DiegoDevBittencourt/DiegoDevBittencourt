@@ -20,7 +20,7 @@
         <img width="36" height="36" src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" alt="windows-redemension" title="Windows 10" border="0" />
     </a>&ensp;&ensp;
     <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank">
-        <img width="36" height="36" src="https://www.clipartmax.com/png/middle/74-741419_big-image-linux-icon-png.png" alt="windows-redemension" title="Linux" border="0" />
+        <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="windows-redemension" title="Linux" border="0" />
     </a>&ensp;&ensp;
     <a href="https://git-scm.com/" target="_blank">
         <img width="36" height="36" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git-redmension" title="Git" border="0" />
