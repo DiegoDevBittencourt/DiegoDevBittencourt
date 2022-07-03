@@ -49,6 +49,12 @@
   <a href="https://reactnative.dev/">
     <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
+  <a href="https://realm.io/">
+    <img width="36" height="36" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" alt="react-redmension" title="Realm" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+  <a href="https://styled-components.com/">
+    <img width="36" height="36" src="https://styled-components.com/logo.png" alt="react-redmension" title="Styled Components" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
   <a href="https://redux.js.org/">
     <img width="36" height="36" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="scss-redmension" title="Redux" border="0" />
    </a>
