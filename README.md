@@ -41,7 +41,7 @@
   </a>
 </p>
 
-**My Stack**
+**My Frontend Stack**
 
 <p>
 </p>
@@ -87,6 +87,8 @@
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/29647600?s=280&v=4" alt="notion-redmension" title="React Navigation" border="0" />
   </a>&ensp;&ensp;
 </p>
+
+**My Backend Stack**
   
 <p align="left">        
     <a href="https://nodejs.org/en/">
