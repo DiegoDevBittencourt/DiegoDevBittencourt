@@ -57,7 +57,10 @@
     <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3" title="CSS3" border="0" />
   </a>&ensp;&ensp;
  <a href="https://reactnative.dev/">
-    <img width="36" height="36" src="https://miro.medium.com/max/525/1*mrOXGyIa3BlPK80peLmEbA.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
+    <img width="36" height="36" src="https://icons-for-free.com/iconfiles/png/512/logo+react+react+js+icon-1320184811840217251.png" alt="react-redmension" title="React Native" border="0" style="margin-left: 16px"/>
+  </a>&ensp;&ensp;
+ <a href="https://pt-br.reactjs.org/">
+    <img width="36" height="36" src="https://miro.medium.com/max/525/1*mrOXGyIa3BlPK80peLmEbA.png" alt="react-redmension" title="ReactJS" border="0" style="margin-left: 16px"/>
   </a>&ensp;&ensp;
   <a href="https://realm.io/">
     <img width="36" height="36" src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" alt="react-redmension" title="Realm" border="0" style="margin-left: 16px"/>
@@ -71,6 +74,9 @@
 </p>
   
 <p align="left">      
+  <a href="https://styled-components.com/">
+    <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Material-UI" border="0"/>
+  </a>&ensp;&ensp;
   <a href="https://styled-components.com/">
     <img width="36" height="36" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="react-redmension" title="Styled Components" border="0"/>
   </a>&ensp;&ensp;
