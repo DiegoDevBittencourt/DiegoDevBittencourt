@@ -38,6 +38,8 @@
     <a href="https://github.com/infinitered/reactotron" target="_blank">
         <img width="36" height="36" src="https://github.com/infinitered/reactotron/raw/master/docs/images/readme/Reactotron-128.png" alt="notion-redmension" title="Reactotron" border="0" />
     </a>&ensp;&ensp;
+    <a href="https://fbflipper.com/" target="_blank">
+        <img width="36" height="36" src="https://fbflipper.com/img/icon.png" alt="notion-redmension" title="Flipper" border="0" />
     <a href="https://desktop.github.com/" target="_blank">
         <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="notion-redmension" title="Github Desktop" border="0" />
     </a>&ensp;&ensp;
