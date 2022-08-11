@@ -100,7 +100,7 @@
         <img width="36" height="36" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/nodejs-logo-adesivo-sticker.png" alt="react-redmension" title="NodeJS" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
     <a href="https://expressjs.com/">
-        <img width="36" height="36" src="https://img2.gratispng.com/20180711/yfe/kisspng-express-js-node-js-javascript-mongodb-node-js-5b461d28173fc6.1251392115313216400952.jpg" alt="react-redmension" title="Express" border="0" style="margin-left: 16px"/>
+        <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" alt="react-redmension" title="Express" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
     <a href="https://sequelize.org/">
         <img width="36" height="36" src="https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.png" alt="react-redmension" title="Sequelize" border="0" style="margin-left: 16px"/>
