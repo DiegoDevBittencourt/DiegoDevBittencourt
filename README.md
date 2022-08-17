@@ -156,6 +156,17 @@
 </a>
 </p>
 
+**Languages**
+
+<p align="left">        
+<a href="">
+    <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/3909/3909383.png" alt="react-redmension" title="English" border="0" style="margin-left: 16px"/>
+</a>&ensp;&ensp;
+<a href="">
+    <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXMcUIMLyt2-ODT1E3imog8vSgX-LPe4kfw&usqp=CAU" alt="react-redmension" title="Portuguese" border="0" style="margin-left: 16px"/>
+</a>&ensp;&ensp;
+</p>
+
 ---
 
 <table width="100%">
