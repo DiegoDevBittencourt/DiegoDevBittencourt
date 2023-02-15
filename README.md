@@ -131,9 +131,6 @@
     <a href="https://firebirdsql.org/" target="_blank">
         <img width="36" height="36" src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png" alt="notion-redmension" title="Firebird" border="0" />
     </a>&ensp;&ensp;
-    <a href="https://www.mysql.com/" target="_blank">
-        <img width="36" height="36" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="notion-redmension" title="MySQL" border="0" />
-    </a>&ensp;&ensp;
     <a href="https://www.mongodb.com/docs/realm/" target="_blank">
         <img width="36" height="36" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="notion-redmension" title="mongoDB" border="0" />
     </a>&ensp;&ensp;
