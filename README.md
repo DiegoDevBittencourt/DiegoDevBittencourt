@@ -125,9 +125,6 @@
     <a href="https://www.sqlite.org/index.html">
         <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="react-redmension" title="SQ-Lite" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
-    <a href="https://firebirdsql.org/" target="_blank">
-        <img width="36" height="36" src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png" alt="notion-redmension" title="Firebird" border="0" />
-    </a>&ensp;&ensp;
     <a href="https://www.mongodb.com/docs/realm/" target="_blank">
         <img width="36" height="36" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="notion-redmension" title="mongoDB" border="0" />
     </a>&ensp;&ensp;
