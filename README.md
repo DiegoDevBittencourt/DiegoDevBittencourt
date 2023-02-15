@@ -109,7 +109,7 @@
         <img width="36" height="36" src="https://symbols.getvecta.com/stencil_261/45_sequelize.7e233926cd.png" alt="react-redmension" title="Sequelize" border="0" style="margin-left: 16px"/>
     </a>&ensp;&ensp;
     <a href="https://oauth.net/">
-        <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="OAuth" border="0" style="margin-left: 16px"/>
+        <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg" alt="react-redmension" title="OAuth 2.0" border="0" style="margin-left: 16px"/>
     </a>
 </p>
 
