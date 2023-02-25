@@ -185,6 +185,6 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/diego-alves-bittencourt-8a6b631a1/" target="_blank">
-    <img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="Linkedin" title="Linkedin" border="0" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Linkedin" title="Linkedin" border="0" />
 </a>
 </p>
