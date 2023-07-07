@@ -1,4 +1,4 @@
-## Hello there, I'm Diego Bittencourt 👋
+## Hello there, I'm Diego Bittencourt
 
 <a href="#">
     <img onmouseover="" src="https://i.imgur.com/3GoYros.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
