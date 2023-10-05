@@ -18,7 +18,7 @@
 <p align="left">
     <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
         <img width="36" height="36" src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" alt="windows-redemension" title="Windows 10" border="0" />
-    </a>
+    </a>&ensp;&ensp;
     <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank">
         <img width="36" height="36" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png" alt="windows-redemension" title="Linux" border="0" />
     </a>&ensp;&ensp;
