@@ -36,7 +36,7 @@
         <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVFINJCzSzZB8cAIHLV1TG7Le6GtLX5qduEiNeuA7OHpaXTxViU-4yg2D6--5RkIl0SU&usqp=CAU" alt="notion-redmension" title="Postman" border="0" />
     </a>&ensp;&ensp;
     <a href="https://github.com/infinitered/reactotron" target="_blank">
-        <img width="36" height="36" src="https://github.com/infinitered/reactotron/raw/master/docs/images/readme/Reactotron-128.png" alt="notion-redmension" title="Reactotron" border="0" />
+        <img width="36" height="36" src="https://pbs.twimg.com/profile_images/834460055625879553/TOP8uF2a_400x400.jpg" alt="notion-redmension" title="Reactotron" border="0" />
     </a>&ensp;&ensp;
     <a href="https://fbflipper.com/" target="_blank">
         <img width="36" height="36" src="https://fbflipper.com/img/icon.png" alt="notion-redmension" title="Flipper" border="0" />
